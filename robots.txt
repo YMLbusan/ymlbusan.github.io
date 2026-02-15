@@ -1,5 +1,6 @@
-User-agent: Yeti
+User-agent: *
 Allow: /
 
 Sitemap: https://ymlbusan.github.io/sitemap.xml
+
 
