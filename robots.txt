@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ymlbusan.github.io/Main/sitemap.xml
+Sitemap: https://ymlbusan.github.io/sitemap.xml
